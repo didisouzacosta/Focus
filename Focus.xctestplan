@@ -1,0 +1,42 @@
+{
+  "configurations" : [
+    {
+      "id" : "0E08D98D-150F-41EE-B73A-213B5C9A2280",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Focus.xcodeproj",
+      "identifier" : "D5B0B7372C375E2A0059D387",
+      "name" : "Focus"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Focus.xcodeproj",
+        "identifier" : "D5B0B7492C375E2C0059D387",
+        "name" : "FocusTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:Focus.xcodeproj",
+        "identifier" : "D5B0B7532C375E2C0059D387",
+        "name" : "FocusUITests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:Focus.xcodeproj",
+        "identifier" : "D574B12D2C38868800DB1B7A",
+        "name" : "FocusCoreTests"
+      }
+    }
+  ],
+  "version" : 1
+}

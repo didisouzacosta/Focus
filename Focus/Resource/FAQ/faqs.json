@@ -1,0 +1,42 @@
+[
+    {
+        "title": "What is Focus and how does it work?",
+        "answer": "## What is Focus and how does it work?\n\nFocus is an app to help you focus in real life, it blocks pre-selected apps during a time interval."
+    },
+    {
+        "title": "Focus requires login or registration to work?",
+        "answer": "## Focus requires login or registration to work?\n\nNo, Focus does not require login or registration, Focus is all about the use-to-go principle. Only advanced features require a subscription."
+    },
+    {
+        "title": "How do I set up a focus plan?",
+        "answer": "## How do I set up a focus plan?\n\nIts very simple, in the \"Plans\" tab, touch in \"+ New Plan\" and enter the time interval, days of the week and the apps that should be blocked. Remember, the minimum blocking time is 15 minutes and the max is 24 hours."
+    },
+    {
+        "title": "What happens when I block an app?",
+        "answer": "## What happens when I block an app?\n\nThe app cannot be used until time runs out or the focus plan is disabled or deleted."
+    },
+    {
+        "title": "What features are included in the free version vs. the subscription?",
+        "answer": "## What features are included in the free version vs. the subscription?\n\n#### Free usage\n\n- Sync with iCloud;\n- The user can create and manage up to 2 focus plans;\n- The user can protect the plan access with FaceID/TouchID;\n- Block uninstallation of current apps;\n\n#### With a subscription\n- All features included in the Free usage;\n- The user can create and manage up to 12 focus plans;\n- Activate or deactivate any plan at any time;\n- Access advanced features:\n- Block installation of new apps;\n- Block access to pre-specified websites."
+    },
+    {
+        "title": "How can I change or cancel my subscription?",
+        "answer": "## How can I change or cancel my subscription?\n\nYou can access the subscription screen in **Settings > Premium Account**, in this screen you will can canceld, restore and change you plan."
+    },
+    {
+        "title": "Will Focus collect or store my personal data?",
+        "answer": "## Will Focus collect or store my personal data?\n\nThe **Focus** app **does not collect any personal data** that could identify the user. We do not request, store, or process information such as name, address, email, phone number, or any other personally identifiable data.\n\nAdditionally, the app **does not require any type of registration or login** for use.\n\nRead more in the **Privacy Policy**."
+    },
+    {
+        "title": "How do I troubleshoot issues with the app?",
+        "answer": "## How do I troubleshoot issues with the app?\n\nYou should send an email to **[adrianosouzacostaios@gmail.com](mailto:adrianosouzacostaios@gmail.com)** describling step by step how to reproduce the bug. The Focus team will respond quickly."
+    },
+    {
+        "title": "Can I use Focus across multiple devices?",
+        "answer": "## Can I use Focus across multiple devices?\n\nYes! All plans are sync to your iCloud, so all devices synced with your iCloud will receive the plans and subscription status."
+    },
+    {
+        "title": "What happens if I uninstall Focus?",
+        "answer": "## What happens if I uninstall Focus?\n\nAll apps will be unlocked and focus plan rules will be disable, but your data will saved in your iCloud."
+    }
+]

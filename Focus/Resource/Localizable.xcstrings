@@ -1,0 +1,856 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ (%@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ (%2$@)"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ (%2$@)"
+          }
+        }
+      }
+    },
+    "%@ New plan" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Novo plano"
+          }
+        }
+      }
+    },
+    "%lld" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
+        }
+      }
+    },
+    "%lldh" : {
+
+    },
+    "Action" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ação"
+          }
+        }
+      }
+    },
+    "All" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todos"
+          }
+        }
+      }
+    },
+    "App infos" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informações do app"
+          }
+        }
+      }
+    },
+    "Apps not allowed" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apps não permitidos"
+          }
+        }
+      }
+    },
+    "Close" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fechar"
+          }
+        }
+      }
+    },
+    "Comming soon" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Em breve"
+          }
+        }
+      }
+    },
+    "Days of week" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dias da semana"
+          }
+        }
+      }
+    },
+    "Dedication" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dedicatória"
+          }
+        }
+      }
+    },
+    "DedicationText" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## Dedication\n        \nThis application is dedicated with much love to my son **Orlando** and my wife **Gisele**, they fills my heart with love and hope. While they sleeps I develop this application, but it is not a problem, because I love programming, but I love them more.\n\n❤️❤️❤️"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## Dedicatória\n\nEsse app e dedicado com muito amor para meu filho **Orlando** e minha esposa **Gisele**, eles enchem meu coração com amor e esperança. Enquanto eles dormem eu desenvolvo essa aplicação, mas isso não e um problema, porque eu amo programar, mas amo eles ainda mais.\n\n❤️❤️❤️"
+          }
+        }
+      }
+    },
+    "Delete" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apagar"
+          }
+        }
+      }
+    },
+    "Delete plan" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apagar plano"
+          }
+        }
+      }
+    },
+    "Deny app removal" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impedir remoção do app"
+          }
+        }
+      }
+    },
+    "Details" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detalhes"
+          }
+        }
+      }
+    },
+    "Do you really remove '%@'?" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você realmente quer remover '%@'?"
+          }
+        }
+      }
+    },
+    "FaceID" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FaceID"
+          }
+        }
+      }
+    },
+    "FAQ.CanIUseFocusAcrossMultipleDevices" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Can I user Focus across multiples devices?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posso usar o Focus em multiplos devices?"
+          }
+        }
+      }
+    },
+    "FAQ.CanIUseFocusAcrossMultipleDevicesText" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## Can I use Focus across multiple devices?\n\n**Yes!** All plans are sync to your iCloud, so all devices synced with your iCloud will receive the plans and subscription status."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## Posso usar o Focus em vários dispositivos?\n\n**Sim!** Todos os planos são sincronizados com seu iCloud, então todos os dispositivos sincronizados com seu iCloud receberão os planos e o status da assinatura."
+          }
+        }
+      }
+    },
+    "FAQ.FocusRequiresLoginOrRegistrationToWork" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Focus requires login or registration to work?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Focus requer login ou cadastro para funcionar?"
+          }
+        }
+      }
+    },
+    "FAQ.FocusRequiresLoginOrRegistrationToWorkText" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## Focus requires login or registration to work?\n\nNo, **Focus** does not require login or registration, Focus is all about the use-to-go principle. Only advanced features require a subscription."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## O Focus requer login ou registro para funcionar?\n\nNão, o **Focus** não requer login ou registro, o Focus segue o princípio de uso imediato. Apenas os recursos avançados requerem uma assinatura."
+          }
+        }
+      }
+    },
+    "FAQ.HowCanIChangeOrCancelMySubscription" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How can I change or cancel my subscription?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Como eu posso mudar ou cancelar minha assinatura?"
+          }
+        }
+      }
+    },
+    "FAQ.HowCanIChangeOrCancelMySubscriptionText" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## How can I change or cancel my subscription?\n\nYou can access the subscription screen in **Settings > Premium Account**, in this screen you will can cancel, restore and change you plan."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## Como posso alterar ou cancelar minha assinatura?\n\nVocê pode acessar a tela de assinaturas em **Configurações > Conta Premium**. Nesta tela, você poderá cancelar, restaurar e alterar seu plano."
+          }
+        }
+      }
+    },
+    "FAQ.HowDoISetUpAFocusPlan" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How do I set up a focus plan?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Como faço para configurar um plano de foco?"
+          }
+        }
+      }
+    },
+    "FAQ.HowDoISetUpAFocusPlanText" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## How do I set up a focus plan?\nIts very simple, in the \\\"Plans\\\" tab, touch in \\\"+ New Plan\\\" and enter the time interval, days of the week and the apps that should be blocked. Remember, the minimum blocking time is 15 minutes and the max is 24 hours."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## Como configurar um plano de foco?\n\nÉ muito simples, na aba \"Planos\", toque em \"+ Novo Plano\" e insira o intervalo de tempo, os dias da semana e os aplicativos que devem ser bloqueados. Lembre-se, o tempo mínimo de bloqueio é de 15 minutos e o máximo é de 24 horas."
+          }
+        }
+      }
+    },
+    "FAQ.HowDoITroubleshootIssuesWithTheApp" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How do I troubleshoot issues with the app?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Como faço para resolver um problema no aplicativo?"
+          }
+        }
+      }
+    },
+    "FAQ.HowDoITroubleshootIssuesWithTheAppText" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## How do I troubleshoot issues with the app?\n\nYou should send an email to **[adrianosouzacostaios@gmail.com](mailto:adrianosouzacostaios@gmail.com)** describling step by step how to reproduce the bug. The Focus team will respond quickly."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## Como solucionar problemas com o aplicativo?\n\nVocê deve enviar um e-mail para **[adrianosouzacostaios@gmail.com](mailto:adrianosouzacostaios@gmail.com)** descrevendo passo a passo como reproduzir o bug. A equipe do Focus responderá rapidamente."
+          }
+        }
+      }
+    },
+    "FAQ.WhatFeaturesAreIncludedInTheFreeVersionXSubscription" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What features are included in the free version vs. the subscription?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quais recursos estão inclusos na versão gratuita e paga?"
+          }
+        }
+      }
+    },
+    "FAQ.WhatFeaturesAreIncludedInTheFreeVersionXSubscriptionText" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## What features are included in the free version vs. the subscription?\n\n#### Free usage\n- Sync with iCloud;\n- The user can create and manage up to 2 focus plans;\n- The user can protect the plan access with FaceID/TouchID;\n- Block uninstallation of current apps;\n\n#### With a subscription\n- All features included in the Free usage;\n- The user can create and manage up to 12 focus plans;\n- Activate or deactivate any plan at any time;\n- Access advanced features:\n- Block installation of new apps;\n- Block access to pre-specified websites."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## Quais recursos estão incluídos na versão gratuita e na assinatura?\n\n#### Uso gratuito\n- Sincronização com iCloud;\n- O usuário pode criar e gerenciar até 2 planos de foco;\n- O usuário pode proteger o acesso ao plano com FaceID/TouchID;\n- Bloquear a desinstalação de aplicativos atuais;\n\n#### Com uma assinatura\n- Todos os recursos incluídos no uso gratuito;\n- O usuário pode criar e gerenciar até 12 planos de foco;\n- Ativar ou desativar qualquer plano a qualquer momento;\n- Acessar recursos avançados:\n  - Bloquear a instalação de novos aplicativos;\n  - Bloquear o acesso a sites pré-especificados."
+          }
+        }
+      }
+    },
+    "FAQ.WhatHappensIfIUninstallFocus" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What happens if I uninstall Focus?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O que acontece se eu desinstalar o Focus?"
+          }
+        }
+      }
+    },
+    "FAQ.WhatHappensIfIUninstallFocusText" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## What happens if I uninstall Focus?\n\nAll apps will be unlocked and focus plan rules will be disable, but your data will saved in your iCloud."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## O que acontece se eu desinstalar o Focus?\n\nTodos os aplicativos serão desbloqueados e as regras dos planos de foco serão desativadas, mas seus dados serão salvos no seu iCloud."
+          }
+        }
+      }
+    },
+    "FAQ.WhatHappensWhenIBlockAnApp" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What happens when I block an app?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O que acontece quando bloqueio um aplicativo?"
+          }
+        }
+      }
+    },
+    "FAQ.WhatHappensWhenIBlockAnAppText" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## What happens when I block an app?\nThe app cannot be used until time runs out or the focus plan is disabled or deleted."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## O que acontece quando eu bloqueio um aplicativo?\n\nO aplicativo não poderá ser usado até que o tempo se esgote ou o plano de foco seja desativado ou excluído."
+          }
+        }
+      }
+    },
+    "FAQ.WhatIsFocusAndHowDoesItWorks" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What is Focus and how does it work?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O que é o Focus e como ele funciona?"
+          }
+        }
+      }
+    },
+    "FAQ.WhatIsFocusAndHowDoesItWorksText" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## What is Focus and how does it work?\n**Focus** is an app to help you focus in real life, it blocks pre-selected apps during a time interval."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## O que é o Focus e como ele funciona?\n\n**Focus** é um aplicativo para ajudar você a se concentrar na vida real. Ele bloqueia aplicativos pré-selecionados durante um intervalo de tempo."
+          }
+        }
+      }
+    },
+    "FAQ.WillFocusCollectOrStoreMyPersonalData" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Will Focus collect or store my personal data?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Focus irá coletar ou salvar meus dados pessoais?"
+          }
+        }
+      }
+    },
+    "FAQ.WillFocusCollectOrStoreMyPersonalDataText" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## Will Focus collect or store my personal data?\n\nThe **Focus** app **does not collect any personal data** that could identify the user. We do not request, store, or process information such as name, address, email, phone number, or any other personally identifiable data.\n\nAdditionally, the app **does not require any type of registration or login** for use.\n\nRead more in the **Privacy Policy**."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## O Focus coletará ou armazenará meus dados pessoais?\n\nO aplicativo **Focus** **não coleta nenhum dado pessoal** que possa identificar o usuário. Não solicitamos, armazenamos ou processamos informações como nome, endereço, e-mail, número de telefone ou qualquer outro dado pessoal identificável.\n\nAlém disso, o aplicativo **não exige nenhum tipo de registro ou login** para uso.\n\nLeia mais na **Política de Privacidade**."
+          }
+        }
+      }
+    },
+    "FAQs" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FAQs"
+          }
+        }
+      }
+    },
+    "Frequently asked questions" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perguntas frequentes"
+          }
+        }
+      }
+    },
+    "Hour" : {
+
+    },
+    "Legal" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Legal"
+          }
+        }
+      }
+    },
+    "Legal.PrivacyPolicyText" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## Privacy Policy\n\n### 1. Introduction\nThis Privacy Policy describes how the **Focus** app (developed by **Adriano Souza Costa**) handles user information. **Focus** respects your privacy and is committed to protecting any data that may be collected while you use the app.\n\n### 2. Collection of Personal Data\nThe **Focus** app **does not collect any personal data** that could identify the user. We do not request, store, or process information such as name, address, email, phone number, or any other personally identifiable data.\n\nAdditionally, the app **does not require any type of registration or login** for use.\n\n### 3. Automatically Collected Data\nAlthough we do not collect personal data, we use **Google Analytics** to monitor app performance. This tool allows us to analyze general information about app usage, such as:\n\n- Crash and error reports;\n- General app performance information;\n- Aggregated and statistical usage data (e.g., frequency of use of certain features).\n\nThis data is collected **anonymously**, without identifying individual users.\n\n### 4. Purpose of Data Collection\nThe data collected through **Google Analytics** is used exclusively for the following purposes:\n\n- Identifying and fixing errors and failures in app functionality;\n- Improving user experience and optimizing app performance;\n- Gathering general usage statistics, helping in making development and improvement decisions.\n\n### 5. Data Sharing with Third Parties\nThe data collected by **Focus** is not shared with third parties, except in the following situations:\n\n- When required by law, judicial authority, or competent administrative body;\n- To protect our legal rights or comply with applicable regulations and norms.\n\nIt is important to note that **Google Analytics** may process the anonymous data it collects in accordance with its own privacy policy.\n\n### 6. Data Security\nWhile the **Focus** app does not collect personally identifiable data, we take all reasonable measures to ensure the security of the anonymous information collected automatically via **Google Analytics**. We use modern and secure protection mechanisms to prevent unauthorized access and keep anonymous data secure.\n\n### 7. User Rights\nSince **Focus** does not collect personally identifiable data, there is no need to request corrections, deletions, or any other changes to data. However, if you have any concerns about the use of anonymous data collected by the app, you can contact us.\n\n### 8. Changes to This Privacy Policy\nWe may update this Privacy Policy periodically to reflect changes in how we process data or to meet new legal requirements. Any changes will be communicated through the app, and the updated version will always be available on this page.\n\n### 9. Contact\nIf you have any questions or concerns regarding this Privacy Policy, please contact us at **[adrianosouzacostaios@gmail.com](mailto:adrianosouzacostaios@gmail.com)**.\n\n---\n\nEffective Date: **2024/08/16**"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## Política de Privacidade\n\n### 1. Introdução\nEsta Política de Privacidade descreve como o aplicativo **Focus** (desenvolvido por **Adriano Souza Costa**) lida com as informações dos usuários. O **Focus** respeita sua privacidade e está comprometido em proteger quaisquer dados que possam ser coletados enquanto você utiliza o aplicativo.\n\n### 2. Coleta de Dados Pessoais\nO aplicativo **Focus** **não coleta nenhum dado pessoal** que possa identificar o usuário. Não solicitamos, armazenamos ou processamos informações como nome, endereço, e-mail, número de telefone ou qualquer outro dado pessoal identificável.\n\nAlém disso, o aplicativo **não exige nenhum tipo de registro ou login** para uso.\n\n### 3. Dados Coletados Automaticamente\nEmbora não coletemos dados pessoais, utilizamos o **Google Analytics** para monitorar o desempenho do aplicativo. Esta ferramenta nos permite analisar informações gerais sobre o uso do aplicativo, como:\n\n- Relatórios de falhas e erros;\n- Informações gerais de desempenho do aplicativo;\n- Dados agregados e estatísticos de uso (por exemplo, frequência de uso de determinadas funcionalidades).\n\nEsses dados são coletados de forma **anônima**, sem identificar usuários individuais.\n\n### 4. Finalidade da Coleta de Dados\nOs dados coletados por meio do **Google Analytics** são utilizados exclusivamente para os seguintes fins:\n\n- Identificar e corrigir erros e falhas na funcionalidade do aplicativo;\n- Melhorar a experiência do usuário e otimizar o desempenho do aplicativo;\n- Coletar estatísticas gerais de uso, auxiliando na tomada de decisões para o desenvolvimento e aprimoramento do aplicativo.\n\n### 5. Compartilhamento de Dados com Terceiros\nOs dados coletados pelo **Focus** não são compartilhados com terceiros, exceto nas seguintes situações:\n\n- Quando exigido por lei, autoridade judicial ou órgão administrativo competente;\n- Para proteger nossos direitos legais ou cumprir com regulamentos e normas aplicáveis.\n\nÉ importante notar que o **Google Analytics** pode processar os dados anônimos que coleta de acordo com sua própria política de privacidade.\n\n### 6. Segurança dos Dados\nEmbora o aplicativo **Focus** não colete dados pessoais identificáveis, tomamos todas as medidas razoáveis para garantir a segurança das informações anônimas coletadas automaticamente pelo **Google Analytics**. Utilizamos mecanismos modernos e seguros de proteção para evitar acessos não autorizados e manter os dados anônimos seguros.\n\n### 7. Direitos dos Usuários\nComo o **Focus** não coleta dados pessoais identificáveis, não há necessidade de solicitar correções, exclusões ou qualquer outra alteração nos dados. No entanto, se você tiver qualquer preocupação sobre o uso de dados anônimos coletados pelo aplicativo, você pode entrar em contato conosco.\n\n### 8. Alterações a Esta Política de Privacidade\nPodemos atualizar esta Política de Privacidade periodicamente para refletir mudanças na forma como processamos dados ou para atender a novos requisitos legais. Quaisquer alterações serão comunicadas por meio do aplicativo, e a versão atualizada estará sempre disponível nesta página.\n\n### 9. Contato\nSe você tiver quaisquer dúvidas ou preocupações sobre esta Política de Privacidade, entre em contato conosco pelo e-mail **[adrianosouzacostaios@gmail.com](mailto:adrianosouzacostaios@gmail.com)**.\n\n---\n\nData de Vigência: **2024/08/16**\n"
+          }
+        }
+      }
+    },
+    "Legal.TermsOfUseText" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "## Terms os Use\n\n### 1. Acceptance of Terms\nBy using the **Focus** app, you agree to these Terms of Use, which constitute a legal agreement between you (the “User”) and **Adriano Souza Costa**. If you do not agree to any of the terms below, do not use the App.\n\n### 2. Changes to the Terms\nWe reserve the right to modify these Terms of Use at any time, at our discretion. Any changes will be posted on the App, and your continued use after such posting will constitute acceptance of the modifications.\n\n### 3. Description of the Service\n**Focus** allows the user to block the use of pre-selected apps within a time range. This time range will never exceed a maximum period of 24 hours, and its minimum will always be 15 minutes. Focus plans may have overlapping time ranges; in this case, the app will combine the rules for active plans.\n\n#### Free usage\n- The user can create and manage up to 2 focus plans;\n- The user can protect the plan access with FaceID/TouchID;\n- Block uninstallation of current apps;\n\n#### With a subscription\n- All features included in the Free usage;\n- The user can create and manage up to 12 focus plans;\n- Activate or deactivate any plan at any time;\n- Access advanced features:\n    - Block installation of new apps;\n    - Block access to pre-specified websites.\n\nWe may add or remove features at any time, without prior notice.\n\n### 4. Payments and Subscriptions\nThe app offers different subscription plans with additional features. By opting for a paid plan, the User agrees to pay the associated fees. The prices of the plans are available on the purchase page within the app and may be changed at any time, with prior notice to the User.\n\n### 5. Automatic Renewal\nSubscriptions are automatically renewed at the end of each subscription period unless the User cancels before the renewal date. Cancellation can be made at any time in the User's account settings.\n\n### 6. License to Use\nWe grant the User a limited, revocable, non-exclusive, and non-transferable license to use the App in accordance with these Terms of Use. The User agrees not to:\n\n- Copy, modify, or distribute the App;\n- Use the App for any illegal purposes;\n- Decompile, reverse engineer, or attempt to extract the source code of the App.\n\n### 7. User Responsibilities\nThe User is solely responsible for their use of the App and must ensure that their use complies with all applicable laws. The User agrees not to use the App for:\n\n- Any illegal, fraudulent, or abusive activities;\n- Interfering with the operation of the App or violating its security systems.\n\n### 8. Data Collection and Use\nWe respect your privacy. Information on how we collect, use, and protect your personal data is detailed in our **Privacy Policy**.\n\n### 9. Limitation of Liability\nTo the maximum extent permitted by applicable law, **Adriano Souza Costa** shall not be liable for any indirect, incidental, special, or consequential damages arising from or related to the use or inability to use the App, including but not limited to loss of data, profits, or business opportunities.\n\nThe App is provided \"as is,\" without any warranties of uninterrupted operation or being error-free.\n\n### 10. Termination\nWe may terminate or suspend your access to the App at any time, without prior notice, if we believe that you have violated these Terms of Use or any applicable law.\n\n### 11. Intellectual Property\nAll intellectual property rights related to the App, including design, content, features, and source code, are owned by us or licensed to us. Use of the App does not grant the User any rights to these elements, except as expressly permitted by these Terms.\n\n### 12. General Provisions\nThese Terms of Use shall be governed and construed in accordance with the laws of **Brazil/MG**, without regard to its conflict of law principles. Any disputes arising from or related to these Terms shall be submitted to the exclusive jurisdiction of the courts of **Juiz de Fora, Minas Gerais/Brazil**.\n\n### 13. Contact\nIf you have any questions regarding these Terms of Use, please contact us at **[adrianosouzacostaios@gmail.com](mailto:adrianosouzacostaios@gmail.com)**."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Termos de Uso\n\n### 1. Aceitação dos Termos\nAo utilizar o aplicativo **Focus**, você concorda com estes Termos de Uso, que constituem um acordo legal entre você (o \"Usuário\") e **Adriano Souza Costa**. Caso não concorde com algum dos termos abaixo, não utilize o aplicativo.\n\n### 2. Alterações nos Termos\nReservamo-nos o direito de modificar estes Termos de Uso a qualquer momento, a nosso critério. Quaisquer alterações serão publicadas no aplicativo, e o seu uso contínuo após tal publicação constituirá aceitação das modificações.\n\n### 3. Descrição do Serviço\n**Focus** permite ao usuário bloquear o uso de aplicativos pré-selecionados dentro de uma faixa de tempo. Essa faixa de tempo nunca excederá o período máximo de 24 horas e o mínimo será sempre de 15 minutos. Os planos de foco podem ter faixas de tempo sobrepostas; nesse caso, o aplicativo combinará as regras para os planos ativos.\n\n#### Uso gratuito\n- O usuário pode criar e gerenciar até 2 planos de foco;\n- O usuário pode proteger o acesso ao plano com FaceID/TouchID;\n- Bloquear a desinstalação de aplicativos atuais.\n\n#### Com uma assinatura\n- Todos os recursos incluídos no uso gratuito;\n- O usuário pode criar e gerenciar até 12 planos de foco;\n- Ativar ou desativar qualquer plano a qualquer momento;\n- Acessar recursos avançados:\n    - Bloquear a instalação de novos aplicativos;\n    - Bloquear o acesso a sites pré-especificados.\n\nPodemos adicionar ou remover funcionalidades a qualquer momento, sem aviso prévio.\n\n### 4. Pagamentos e Assinaturas\nO aplicativo oferece diferentes planos de assinatura com funcionalidades adicionais. Ao optar por um plano pago, o Usuário concorda em pagar as taxas associadas. Os preços dos planos estão disponíveis na página de compra dentro do aplicativo e podem ser alterados a qualquer momento, com aviso prévio ao Usuário.\n\n### 5. Renovação Automática\nAs assinaturas são renovadas automaticamente ao final de cada período de assinatura, a menos que o Usuário cancele antes da data de renovação. O cancelamento pode ser feito a qualquer momento nas configurações da conta do Usuário.\n\n### 6. Licença de Uso\nConcedemos ao Usuário uma licença limitada, revogável, não exclusiva e intransferível para usar o aplicativo de acordo com estes Termos de Uso. O Usuário concorda em não:\n\n- Copiar, modificar ou distribuir o aplicativo;\n- Utilizar o aplicativo para quaisquer fins ilegais;\n- Descompilar, fazer engenharia reversa ou tentar extrair o código-fonte do aplicativo.\n\n### 7. Responsabilidades do Usuário\nO Usuário é o único responsável pelo uso do aplicativo e deve garantir que seu uso esteja em conformidade com todas as leis aplicáveis. O Usuário concorda em não usar o aplicativo para:\n\n- Qualquer atividade ilegal, fraudulenta ou abusiva;\n- Interferir no funcionamento do aplicativo ou violar seus sistemas de segurança.\n\n### 8. Coleta e Uso de Dados\nRespeitamos sua privacidade. Informações sobre como coletamos, utilizamos e protegemos seus dados pessoais estão detalhadas em nossa **Política de Privacidade**.\n\n### 9. Limitação de Responsabilidade\nNa máxima extensão permitida pela lei aplicável, **Adriano Souza Costa** não será responsável por quaisquer danos indiretos, incidentais, especiais ou consequenciais decorrentes ou relacionados ao uso ou à incapacidade de usar o aplicativo, incluindo, mas não se limitando à perda de dados, lucros ou oportunidades de negócios.\n\nO aplicativo é fornecido \"como está\", sem quaisquer garantias de funcionamento ininterrupto ou livre de erros.\n\n### 10. Rescisão\nPodemos encerrar ou suspender seu acesso ao aplicativo a qualquer momento, sem aviso prévio, se acreditarmos que você violou estes Termos de Uso ou qualquer lei aplicável.\n\n### 11. Propriedade Intelectual\nTodos os direitos de propriedade intelectual relacionados ao aplicativo, incluindo design, conteúdo, funcionalidades e código-fonte, são de nossa propriedade ou licenciados para nós. O uso do aplicativo não concede ao Usuário quaisquer direitos sobre esses elementos, exceto conforme expressamente permitido por estes Termos.\n\n### 12. Disposições Gerais\nEstes Termos de Uso serão regidos e interpretados de acordo com as leis do **Brasil/MG**, sem consideração aos princípios de conflitos de leis. Qualquer disputa decorrente ou relacionada a estes Termos será submetida à jurisdição exclusiva dos tribunais de **Juiz de Fora, Minas Gerais/Brasil**.\n\n### 13. Contato\nSe você tiver quaisquer dúvidas sobre estes Termos de Uso, entre em contato conosco pelo e-mail **[adrianosouzacostaios@gmail.com](mailto:adrianosouzacostaios@gmail.com)**.\n"
+          }
+        }
+      }
+    },
+    "Less phone." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menos telefone."
+          }
+        }
+      }
+    },
+    "Libraries and Licenses" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bibliotecas e licensas"
+          }
+        }
+      }
+    },
+    "Licenses" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Licensas"
+          }
+        }
+      }
+    },
+    "Membership" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Assinatura"
+          }
+        }
+      }
+    },
+    "Metrics" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Métricas"
+          }
+        }
+      }
+    },
+    "More **focus**." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mais **foco**."
+          }
+        }
+      }
+    },
+    "More **real life**." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mais **vida real**."
+          }
+        }
+      }
+    },
+    "Name" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nome"
+          }
+        }
+      }
+    },
+    "No data" : {
+
+    },
+    "No data for %@ yet." : {
+
+    },
+    "No plans yet" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nenhum plano ainda"
+          }
+        }
+      }
+    },
+    "Plans" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Planos"
+          }
+        }
+      }
+    },
+    "Privacy Policy" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Politica de Privacidade"
+          }
+        }
+      }
+    },
+    "Request Authorization" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pedir Autorização"
+          }
+        }
+      }
+    },
+    "Restrictions" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restrições"
+          }
+        }
+      }
+    },
+    "Save" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salvar"
+          }
+        }
+      }
+    },
+    "Security" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Segurança"
+          }
+        }
+      }
+    },
+    "Selected days" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dias selecionados"
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configurações"
+          }
+        }
+      }
+    },
+    "Skip" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pular"
+          }
+        }
+      }
+    },
+    "Start" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Começar"
+          }
+        }
+      }
+    },
+    "Start a new plan now!" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Começar um novo plano agora!"
+          }
+        }
+      }
+    },
+    "Submit" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enviar"
+          }
+        }
+      }
+    },
+    "Terms of Use" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Termos de uso"
+          }
+        }
+      }
+    },
+    "Test" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teste"
+          }
+        }
+      }
+    },
+    "Toggle activities" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alterar atividades"
+          }
+        }
+      }
+    },
+    "Total" : {
+
+    },
+    "Weekdays" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dias da semana"
+          }
+        }
+      }
+    },
+    "Weekend" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fim de semana"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
